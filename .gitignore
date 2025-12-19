@@ -137,3 +137,17 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# dependencies
+node_modules/
+
+# build output
+.next/
+
+# env
+.env
+.env.local
+
+# Firebase Studio
+.idx/
+.modified
